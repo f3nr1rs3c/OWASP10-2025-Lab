@@ -63,7 +63,7 @@ Every lab follows the same layout as `Injection` above: `Backend`, `Context`, `M
 **Doğukan Talha İspirli & Yağız Erdem**
 
 - GitHub: [@f3nr1rs3c](https://github.com/f3nr1rs3c)
-- Project Website: [github.com/yagizerdem/OWASP-lab](https://github.com/yagizerdem/OWASP-lab)
+- Project Website: [github.com/yagizerdem/OWASP-lab](https://yagizerdem.github.io/OWASP-lab/)
 
 ## License
 
