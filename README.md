@@ -60,7 +60,7 @@ Every lab follows the same layout as `Injection` above: `Backend`, `Context`, `M
 
 ## Author
 
-**yagiz erdem**
+**Doğukan Talha İspirli & Yağız Erdem**
 
 - GitHub: [@yagizerdem](https://github.com/f3nr1rs3c)
 - Project: [github.com/yagizerdem/OWASP-lab](https://github.com/yagizerdem/OWASP-lab)
