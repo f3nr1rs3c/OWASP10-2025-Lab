@@ -1,3 +1,5 @@
+<img width="1858" height="514" alt="OWASP TOP 10" src="https://github.com/user-attachments/assets/6a8763b1-dad4-4e0c-9a02-7b88d7f99c44" />
+
 ## Introduction
 
 OWASP Lab is a hands-on training project for learning web application security by breaking real code. It covers all ten categories of the [OWASP Top 10 (2025)](https://owasp.org/Top10/), and each category has its own lab: a small ASP.NET Core Web API with its own SQL Server database, filled with dummy data so every attack has something to find.
